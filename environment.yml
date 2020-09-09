@@ -2,8 +2,7 @@ name: jupyter_inequality
 channels:
   - defaults
 dependencies:
-  - python>3.6
-  - notebook>5.2
+  - python
   - matplotlib
   - pandas
   - numpy
