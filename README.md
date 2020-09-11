@@ -3,7 +3,7 @@
 Professor : Diana Goldemberg
 
 This repository contains anciliary files for the empirical assignments.
-Please always refer to Forum for the assignment detailed instructions and for delivery.
+Please always refer to Forum&reg; for the assignment detailed instructions and for delivery.
 
 ### Inequality notebook
 [Static version](https://github.com/dianagold/SS164/blob/master/inequality/Inequality_Empirical_Notebook.ipynb) or
