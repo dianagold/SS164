@@ -7,4 +7,6 @@ dependencies:
   - pandas
   - numpy
   - request
-  - wbgapi
+  - pip
+  - pip:
+    - wbgapi
