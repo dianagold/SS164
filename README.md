@@ -7,4 +7,4 @@ Please always refer to Forum&reg; for the assignment detailed instructions and f
 
 ### Inequality notebook
 [Static version](https://github.com/dianagold/SS164/blob/master/inequality/Inequality_Empirical_Notebook.ipynb) or
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dianagold/ss164/2e2cf59d25a3d8be96bb44036c4aea14b57a60d8)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dianagold/ss164/master?filepath=inequality%2FInequality_Empirical_Notebook.ipynb)
