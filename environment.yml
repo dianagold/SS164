@@ -1,0 +1,12 @@
+name: jupyter_inequality
+channels:
+  - defaults
+dependencies:
+  - python
+  - matplotlib
+  - pandas
+  - numpy
+  - request
+  - pip
+  - pip:
+    - wbgapi
